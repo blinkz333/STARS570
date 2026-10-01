@@ -1,0 +1,51 @@
+<settings>
+
+    <!-- ========================================
+         COLOR THEME
+         ======================================== -->
+    <setting
+        propertyKey="@Properties.colorTheme"
+        title="@Strings.ColorThemeTitle">
+
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ThemeOriginal</listEntry>
+            <listEntry value="1">@Strings.ThemeTacticalRed</listEntry>
+        </settingConfig>
+
+    </setting>
+
+
+    <!-- ========================================
+         STEP GOAL
+         ======================================== -->
+    <setting
+        propertyKey="@Properties.stepGoal"
+        title="@Strings.StepGoalTitle">
+
+        <settingConfig type="list">
+            <listEntry value="5000">@Strings.StepGoal5000</listEntry>
+            <listEntry value="7500">@Strings.StepGoal7500</listEntry>
+            <listEntry value="10000">@Strings.StepGoal10000</listEntry>
+            <listEntry value="12500">@Strings.StepGoal12500</listEntry>
+            <listEntry value="15000">@Strings.StepGoal15000</listEntry>
+        </settingConfig>
+
+    </setting>
+
+
+    <!-- ========================================
+         TIME FORMAT
+         ======================================== -->
+    <setting
+        propertyKey="@Properties.timeFormat"
+        title="@Strings.TimeFormatTitle">
+
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.TimeFormatSystem</listEntry>
+            <listEntry value="1">@Strings.TimeFormat12Hour</listEntry>
+            <listEntry value="2">@Strings.TimeFormat24Hour</listEntry>
+        </settingConfig>
+
+    </setting>
+
+</settings>

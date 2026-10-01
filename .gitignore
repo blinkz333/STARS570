@@ -1,0 +1,45 @@
+# ============================================
+# STARS570 - Garmin Connect IQ
+# ============================================
+
+# Build output
+bin/
+gen/
+mir/
+internal-mir/
+
+# Exported builds / packages
+Export/
+*.iq
+*.prg
+
+# Debug files
+*.prg.debug.xml
+*.debug.xml
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Backup files
+*.bak
+*.swp
+*~
+
+# Local environment files
+.env
+.env.*
+
+# Keep project source and configuration
+!manifest.xml
+!monkey.jungle
+!README.md

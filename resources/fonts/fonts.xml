@@ -1,0 +1,13 @@
+<resources>
+    <font
+        id="TimeFont"
+        filename="Captureit.fnt"
+        antialias="true"
+    />
+
+    <font
+        id="DateFont"
+        filename="VCRDate.fnt"
+        antialias="true"
+    />
+</resources>

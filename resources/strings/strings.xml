@@ -1,0 +1,47 @@
+<strings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+
+    <string id="AppName">STARS570</string>
+
+
+    <!-- ========================================
+         COLOR THEME SETTINGS
+         ======================================== -->
+
+    <string id="ColorThemeTitle">Color Theme</string>
+
+    <string id="ThemeOriginal">Original / RPD Blue</string>
+
+    <string id="ThemeTacticalRed">Tactical Red</string>
+
+
+    <!-- ========================================
+         STEP GOAL SETTINGS
+         ======================================== -->
+
+    <string id="StepGoalTitle">Step Goal</string>
+
+    <string id="StepGoal5000">5,000 Steps</string>
+
+    <string id="StepGoal7500">7,500 Steps</string>
+
+    <string id="StepGoal10000">10,000 Steps</string>
+
+    <string id="StepGoal12500">12,500 Steps</string>
+
+    <string id="StepGoal15000">15,000 Steps</string>
+
+
+    <!-- ========================================
+         TIME FORMAT SETTINGS
+         ======================================== -->
+
+    <string id="TimeFormatTitle">Time Format</string>
+
+    <string id="TimeFormatSystem">System Default</string>
+
+    <string id="TimeFormat12Hour">12 Hour</string>
+
+    <string id="TimeFormat24Hour">24 Hour</string>
+
+</strings>
